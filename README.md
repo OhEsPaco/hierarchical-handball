@@ -27,6 +27,7 @@ Clustering de datos de balonmano utilizando algoritmos jerárquicos.
 ## Autores
 
 -Francisco M. García Sánchez-Belmonte
+
 -Jesús Javier Catalán Ramírez
 
 
